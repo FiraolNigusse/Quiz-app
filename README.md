@@ -1,8 +1,8 @@
 # Quiz-app
 
-Quiz Master - A Simple Teacher & Student Quiz System 🎓📚  
+Quiz app - A Simple Teacher & Student Quiz System 🎓📚  
 
-Quiz Master is a web-based application that allows teachers to create quizzes and students to take them. The system uses localStorage to store questions and responses, making it lightweight and easy to use.  
+Quiz app is a web-based application that allows teachers to create quizzes and students to take them. The system uses localStorage to store questions and responses, making it lightweight and easy to use.  
 
 🚀 Features
 ✅ Teacher Mode:  
